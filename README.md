@@ -1,5 +1,7 @@
 ## Hello, I'm Abhishek Tiwari.
+<img align='right' src="https://gifyu.com/image/Ai8P" width="210">
 - 🎓 I'm currently pursuing **Bachelors in Mining Engineering** (Final Year) from **National Institute of Technology, Raipur**
+- 
 
 
 
