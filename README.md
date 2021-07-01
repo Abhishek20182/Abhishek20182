@@ -19,8 +19,8 @@ def abhishek():
 
 ```
 
-  ---
-### My GitHub Stats
+
+## My GitHub Stats
 <details>
   <summary>Stats</summary>
   
@@ -30,7 +30,6 @@ def abhishek():
  
   </details>
   
-  ---
 
 ## Connect me on:
 - LinkedIn: https://www.linkedin.com/in/abhishek-tiwari-nitrr/
