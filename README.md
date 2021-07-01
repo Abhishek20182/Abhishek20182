@@ -15,8 +15,6 @@ def abhishek():
   tools = ['numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn', 'flask', 'alteryx']
   cloud_architecture = ['heroku']
   return ∞
-  
-
 ```
 
 
