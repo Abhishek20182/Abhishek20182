@@ -16,7 +16,7 @@ def abhishek():
   cloud_architecture = ['heroku']
   kaggle_competition = 1
   analytics_vidhya_competitions = 2
-  dockership_competition = 1
+  dockship_competition = 1
   return ∞
 ```
 
