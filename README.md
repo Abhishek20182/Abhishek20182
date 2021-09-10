@@ -14,6 +14,9 @@ def abhishek():
   skills_with_proficiency = {'Python': 'Intermidiate', 'SQL': 'Intermidiate', 'HTML & CSS': 'Intermidiate'}
   tools = ['numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn', 'flask', 'alteryx']
   cloud_architecture = ['heroku']
+  kaggle_competition = 1
+  analytics_vidhya_competitions = 2
+  dockership_competition = 1
   return ∞
 ```
 
