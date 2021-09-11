@@ -3,7 +3,7 @@
 
 <img src="https://img.shields.io/badge/Nitian-Abhishek%20Tiwari-important">
 
-- 🎓 I'm currently pursuing **Bachelors in Mining Engineering** (Final Year) from **National Institute of Technology, Raipur**.
+- 🎓 I'm currently pursuing **Bachelors in Mining Engineering** (Final Year) from the **National Institute of Technology, Raipur**.
 - 🌱 I'm currently learning from [Coursera](https://www.coursera.org/) ,[Youtube](https://www.youtube.com/), [Wikipedia](https://en.wikipedia.org/), [Kaggle](https://www.kaggle.com/) and [Analytic Vidhya](https://www.analyticsvidhya.com/).
 - 🤟 I love Programming, Data Analysis and Machine Learning.
 - ⚡️ Fast learner.
