@@ -15,7 +15,7 @@ def abhishek():
   tools = ['numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn', 'flask', 'alteryx']
   cloud_architecture = ['heroku']
   kaggle_competition = 1
-  analytics_vidhya_competitions = 2
+  analytics_vidhya_competitions = 5
   dockship_competition = 1
   return ∞
 ```
