@@ -1,5 +1,5 @@
 ## Hello 👋 
-<img align='right' src="https://s6.gifyu.com/images/man-programmer-working-computer-with-code-screen-illustration-programmer-working-writing-code_87749-276.jpg" width="280">
+<img align='right' src="https://s6.gifyu.com/images/man-programmer-working-computer-with-code-screen-illustration-programmer-working-writing-code_87749-276.jpg" width="250">
 
 <img src="https://img.shields.io/badge/Nitian-Abhishek%20Tiwari-important">
 
