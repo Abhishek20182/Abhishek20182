@@ -3,16 +3,15 @@
 
 <img src="https://img.shields.io/badge/Nitian-Abhishek%20Tiwari-important">
 
-- 🎓 I'm currently pursuing **Bachelors in Mining Engineering** (Final Year) from the **National Institute of Technology, Raipur**.
+- 🎓 I'm  completed my **Bachelors in Mining Engineering** from the **National Institute of Technology, Raipur**.
 - 🌱 I'm currently learning from [Coursera](https://www.coursera.org/) ,[Youtube](https://www.youtube.com/), [Wikipedia](https://en.wikipedia.org/), [Kaggle](https://www.kaggle.com/) and [Analytic Vidhya](https://www.analyticsvidhya.com/).
-- 🤟 I love Programming, Data Analysis and Machine Learning.
 - ⚡️ Fast learner.
-- 💻 I'm looking for an **internship** in **Data Analytics** or **Machine Learning** domain.
+- 💻 I'm open for collaborations in **Data Science** and **Machine Learning** domains.
 
 ```python
 def abhishek():
-  skills_with_proficiency = {'Python': 'Intermidiate', 'SQL': 'Intermidiate', 'HTML & CSS': 'Intermidiate'}
-  tools = ['numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn', 'flask', 'alteryx']
+  skills_with_proficiency = {'Python': 'Advance', 'SQL': 'Intermidiate', 'HTML & CSS': 'Intermidiate'}
+  tools = ['numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn', 'flask', 'alteryx', 'keras']
   cloud_architecture = ['heroku']
   kaggle_competition = 1
   analytics_vidhya_competitions = 5
