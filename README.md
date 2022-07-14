@@ -1,6 +1,6 @@
 ## Hello 👋 
 
-<img align='right' src="https://github.com/Abhishek20182/Abhishek20182/blob/main/coding.gif" width="250">
+<img align='right' src="https://github.com/Abhishek20182/Abhishek20182/blob/main/coding.gif" width="295">
 
 <div>
 <img src="https://img.shields.io/badge/Nitian-Abhishek%20Tiwari-important">
@@ -27,17 +27,14 @@ def abhishek():
 
 
 ## 📈 My GitHub Stats
-<!---------
+
 <details>
   <summary>Stats</summary>
-  
-  ![Github stats](https://github-readme-stats.vercel.app/api?username=Abhishek20182&show_icons=true)
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek20182&layout=compact)
- 
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Abhishek20182&show_icons=true&theme=algolia&count_private=true" alt="abhishek20182" />
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek20182&theme=algolia" alt="abhishek20182" />
   </details>
--------> 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhishek20182&show_icons=true&theme=gotham" alt="abhishek20182" />
+
+
 
 
 <h3> Where to find me: </h3>
